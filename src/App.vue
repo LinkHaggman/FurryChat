@@ -249,7 +249,7 @@ export default {
 					.content {
 						display: inline-block;
 						padding: 10px 20px;
-						background-color: #F3F3F3;
+						background-color: #d4d4d4;
 						border-radius: 999px;
 						color: #333;
 						font-size: 18px;
