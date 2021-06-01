@@ -124,6 +124,7 @@ export default {
 	min-height: 100vh;
 	background-size: cover;
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.75)), url("https://lovelytab.com/wp-content/uploads/2019/01/img12-min.jpg");
+  background-position: center;
 
 
 	&.login {
