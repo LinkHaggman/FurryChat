@@ -1,4 +1,4 @@
-# chatbot
+# FurryChat
 
 ## Project setup
 ```
