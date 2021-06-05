@@ -1,6 +1,6 @@
 # FurryChat
 
-A chat website made with Vue & Firebase 🐾
+A chat website made with Vue 3 & Firebase 🐾
 <br><br>
 
 ## Project setup
