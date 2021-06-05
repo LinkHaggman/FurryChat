@@ -2,6 +2,7 @@
 
 A chat website made with Vue & Firebase 🐾
 
+
 ## Project setup
 ```
 npm install
